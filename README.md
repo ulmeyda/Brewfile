@@ -1,0 +1,2 @@
+# Brewfile
+mac setup
